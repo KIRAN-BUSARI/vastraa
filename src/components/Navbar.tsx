@@ -40,9 +40,6 @@ function Navbar() {
                   <a href="#whyVastraa" className="hover:text-gradient">
                     Why Vastraa?
                   </a>
-                  <a href="#branches" className="hover:text-gradient">
-                    Branches
-                  </a>
                   <a href="#contact" className="hover:text-gradient">
                     Contact
                   </a>
@@ -60,9 +57,6 @@ function Navbar() {
             </a>
             <a href="#whyVastraa" className="hover:text-gradient">
               Why Vastraa?
-            </a>
-            <a href="#branches" className="hover:text-gradient">
-              Branches
             </a>
             <a href="#contact" className="hover:text-gradient">
               Contact

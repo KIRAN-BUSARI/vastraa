@@ -21,15 +21,6 @@ function Footer() {
             <p>Blogs</p>
             <p>Mail</p>
           </div>
-          <div className="space-y-5">
-            <h2 className="text-[#FFCC33] font-semibold lg:text-2xl">
-              Information
-            </h2>
-            <p>Costumes</p>
-            <p>Events</p>
-            <p>Why Vastraa?</p>
-            <p>Team</p>
-          </div>
         </div>
         <div className="flex flex-col space-y-5">
           <div className="flex space-x-2 items-center">

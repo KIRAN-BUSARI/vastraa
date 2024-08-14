@@ -30,7 +30,7 @@ const features = [
 
 function Features() {
   return (
-    <section id="whyVastraa" className="h-[80vh] md:pt-40 pt-24">
+    <section id="whyVastraa" className="h-full md:pt-40 pt-24">
       <div className="">
         <div className="flex space-x-4">
           <div className="bg-gradient lg:h-[110px] lg:min-w-[8px] min-w-[8px] border rounded-full h-48"></div>

@@ -103,9 +103,9 @@ function Costume() {
         ))}
       </div>
       <div className="md:ml-6 ml-2">
-        <p className="text-primary font-normal text-2xl">
+        <p className="text-primary md:font-normal font-medium text-2xl">
           Discover a wide variety of styles,{" "}
-          <span className="text-gradient">
+          <span className="text-gradient font-semibold md:font-normal">
             from classic to contemporary,
             <br />{" "}
           </span>
